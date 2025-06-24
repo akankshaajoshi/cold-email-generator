@@ -3,6 +3,9 @@
 ## Overview
 The Cold Email Generator is a Streamlit application designed to generate personalized cold emails based on job descriptions extracted from URLs. It leverages a language model to analyze job postings and create tailored emails that highlight the capabilities of a client.
 
+![image](https://github.com/user-attachments/assets/aeba372e-996d-43c4-9f0f-cd8cdb2ee157)
+
+
 ## Features
 - **URL Input**: Users can input a URL pointing to a job listing.
 - **Job Extraction**: The application extracts job details such as role, experience, skills, and description from the provided URL.
