@@ -1,7 +1,7 @@
 # Cold Email Generator
 
 ## Overview
-The Cold Email Generator is a Streamlit application designed to generate personalized cold emails based on job descriptions extracted from URLs. It leverages a language model to analyze job postings and create tailored emails that highlight the capabilities of AtliQ, an AI & Software Consulting company.
+The Cold Email Generator is a Streamlit application designed to generate personalized cold emails based on job descriptions extracted from URLs. It leverages a language model to analyze job postings and create tailored emails that highlight the capabilities of a client.
 
 ## Features
 - **URL Input**: Users can input a URL pointing to a job listing.
